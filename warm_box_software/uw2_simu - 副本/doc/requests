@@ -1,0 +1,43 @@
+
+
+simu networked game
+
+    server
+
+    client
+        ####### OK
+        reduce duplicate code (only need one client) OK
+        use MVC (view receives msg from model) OK
+        see others, enter, disappear, move  OK
+        enter battle, show ships in battle OK
+        see all ships operate OK
+        show exit battle OK
+        only shoot flag ship OK
+        move before shooting OK
+        show damage num OK
+        play damage sound OK
+        timer OK
+        escape OK
+
+        enter port OK
+        sail OK
+        
+        ####### ON
+
+        GUI
+
+            aoi management (one map has one grid only)
+
+                enter battle OK
+                exit battle  OK
+
+                refactor ONN
+                    GUI
+
+                count secs after enter battle ON
+
+
+
+
+
+
